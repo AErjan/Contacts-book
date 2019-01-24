@@ -1,0 +1,19 @@
+.user-avatar {
+  width: 100%;
+  text-align: center;
+}
+
+.user-picture {
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.user-list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-list-item strong,
+.user-list-item span {
+  display: block;
+}
